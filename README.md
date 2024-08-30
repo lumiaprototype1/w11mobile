@@ -123,3 +123,4 @@ Usually I use this solution to backup my phone.
 - 1.Disconnect your phone
 - 2.Restart manually
 - 3.Done, you have restored your old system as it was exactly.
+ytruytrt
